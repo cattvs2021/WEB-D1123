@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Comforter&family=Cormorant:wght@300&family=Monoton&family=Montserrat:wght@100;500&family=Roboto:wght@900&display=swap");
+// font-family: 'Montserrat', sans-serif;
+// font-family: 'Roboto', sans-serif;
+
+* {
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+.container {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(175, 228, 210);
+}
+#container1 {
+    background-color: rgb(86, 110, 102);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    h1 {
+        color: bisque;
+    }
+    h1 {
+        font-family: sans-serif, Georgia, 'Times New Roman', Times;
+        font-size: 9em;
+        text-shadow: 10px 10px 16px black;
+        color: bisque;
+    }
+}

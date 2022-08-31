@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Comforter&family=Cormorant:wght@300&family=Monoton&family=Montserrat:wght@100;500&family=Roboto:wght@900&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: #afe4d2;
+}
+
+#container1 {
+  background-color: #566e66;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#container1 h1 {
+  color: bisque;
+}
+
+#container1 h1 {
+  font-family: sans-serif, Georgia, 'Times New Roman', Times;
+  font-size: 9em;
+  text-shadow: 10px 10px 16px black;
+  color: bisque;
+}
+/*# sourceMappingURL=style.css.map */
